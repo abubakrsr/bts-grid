@@ -1,0 +1,10 @@
+.box{
+	height: 100px;
+	background-color: greenyellow;
+	margin-bottom: 5px;
+}
+
+body{
+	min-height: 500vh;
+}
+
